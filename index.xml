@@ -1,11 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Filipe Soares</title><link>https://filipecsoares.github.io/</link><description>Recent content in Home on Filipe Soares</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2024 16:39:51 -0300</lastBuildDate><atom:link href="https://filipecsoares.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Vacuum Analyze in PostgreSQL: An Essential Tool for Performance Optimization</title><link>https://filipecsoares.github.io/posts/001-vacuum-analyze/</link><pubDate>Wed, 25 Sep 2024 16:39:51 -0300</pubDate><guid>https://filipecsoares.github.io/posts/001-vacuum-analyze/</guid><description>&lt;p>&lt;code>VACUUM ANALYZE&lt;/code> is a command in PostgreSQL used to optimize database performance, particularly by removing obsolete data and updating table statistics.&lt;/p>
-&lt;h2 class="heading" id="understanding-vacuum-analyze">
- Understanding VACUUM ANALYZE
- &lt;a class="anchor" href="#understanding-vacuum-analyze">#&lt;/a>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Filipe Soares</title><link>https://filipecsoares.github.io/</link><description>Recent content in Home on Filipe Soares</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2024 16:39:51 -0300</lastBuildDate><atom:link href="https://filipecsoares.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Vacuum Analyze in PostgreSQL: An Essential Tool for Performance Optimization</title><link>https://filipecsoares.github.io/posts/001-vacuum-analyze/</link><pubDate>Wed, 25 Sep 2024 16:39:51 -0300</pubDate><guid>https://filipecsoares.github.io/posts/001-vacuum-analyze/</guid><description>Reclaim dead tuple space and update planner statistics to keep PostgreSQL queries fast.</description></item><item><title>About</title><link>https://filipecsoares.github.io/about/</link><pubDate>Wed, 25 Sep 2024 11:05:25 -0300</pubDate><guid>https://filipecsoares.github.io/about/</guid><description>&lt;p>Software Architect at &lt;strong>Koopere&lt;/strong>, building software since 2014.&lt;/p>
+&lt;p>I focus on Software Architecture, Microservices, Docker, Kubernetes, Clean Code, and Web Security. Outside of work, I enjoy reading books on technology, science, and fiction.&lt;/p>
+&lt;h2 class="heading" id="education">
+ Education
+ &lt;a class="anchor" href="#education">#&lt;/a>
 &lt;/h2>
-&lt;h3 class="heading" id="vacuum-space-reclamation">
- VACUUM: Space Reclamation
- &lt;a class="anchor" href="#vacuum-space-reclamation">#&lt;/a>
-&lt;/h3>
-&lt;p>&lt;code>VACUUM&lt;/code> is a process that reclaims space occupied by deleted or marked-for-deletion rows. When records are deleted or updated in a PostgreSQL table, the physical space they occupied is still retained by the database and can only be reused for new records after running &lt;code>VACUUM&lt;/code>. This helps prevent fragmentation and unnecessary disk space usage.&lt;/p></description></item><item><title>About</title><link>https://filipecsoares.github.io/about/</link><pubDate>Wed, 25 Sep 2024 11:05:25 -0300</pubDate><guid>https://filipecsoares.github.io/about/</guid><description>&lt;p>I&amp;rsquo;m Filipe Soares, a Software Developer from Brazil with over 10 years of experience, currently working at Jtech, a software development company of Veolia Group.&lt;/p>
-&lt;p>My career began in 2014, where I worked with Java, PostgreSQL, and various web technologies. Over the years, I’ve grown proficient in developing systems, improving performance, and solving complex problems using modern methodologies. I hold an MBA in Software Architecture and am currently pursuing a postgraduate degree in Applied Mathematics for computer science.&lt;/p></description></item></channel></rss>
+&lt;ul>
+&lt;li>&lt;strong>Postgraduate in Mathematics Oriented to Algorithms and Data Structures&lt;/strong> — Faculdade Focus &lt;em>(in progress)&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Postgraduate in Technical Leadership&lt;/strong> — Full Cycle&lt;/li>
+&lt;li>&lt;strong>Postgraduate in Software Architecture&lt;/strong> — IGTI&lt;/li>
+&lt;li>&lt;strong>Systems Analysis and Development&lt;/strong> — USJ&lt;/li>
+&lt;/ul>
+&lt;h2 class="heading" id="links">
+ Links
+ &lt;a class="anchor" href="#links">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>GitHub:&lt;/strong> &lt;a href="https://github.com/filipecsoares">github.com/filipecsoares&lt;/a> — Code, experiments, and open-source projects.&lt;/li>
+&lt;li>&lt;strong>LinkedIn:&lt;/strong> &lt;a href="https://www.linkedin.com/in/filipe-soares-897a2151/">linkedin.com/in/filipe-soares-897a2151&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
